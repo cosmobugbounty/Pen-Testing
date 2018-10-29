@@ -1,4 +1,6 @@
 <#
+USAGE:
+
 beacon> getuid
 [*] Tasked beacon to get userid
 [+] host called home, sent: 20 bytes
