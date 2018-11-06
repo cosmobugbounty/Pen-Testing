@@ -13,7 +13,7 @@ This tool is based heavily upon the work made public in Mike Czumak's (T_v3rn1x)
 To install Reconnoitre first make a local copy of the repository by performing the following where you wish it to be located:
 
 ```
-git clone https://github.com/codingo/Reconnoitre.git
+git clone https://github.com/cosmobugbounty/Pen-Testing.git
 ```
 After you have done this run setup.py with the following:
 ```
